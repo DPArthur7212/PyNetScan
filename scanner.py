@@ -39,3 +39,5 @@ if __name__ == "__main__":
 
     print(f"[INFO] Scan de {args.target} sur les ports {start_port}-{end_port}...")
     scan_ports(args.target, port_range)
+
+# test
